@@ -1,4 +1,4 @@
-Welcome to my Data Analysis Portfolio!
+**Welcome to my Data Analysis Portfolio!**
 
 This repository showcases my skills and experience in data analysis through various projects. Each project highlights my ability to:
 
@@ -9,6 +9,6 @@ Build and apply statistical models: Utilize appropriate statistical techniques t
 Communicate findings: Present insights clearly and concisely through visualizations, reports, and storytelling.
 
 
-Browse the Projects:
+**Browse the Projects:**
 
-1. Apple AppStore Data Analysis: This project is about empowering aspiring app developers with data-driven approach to conquer the competitive Apple App Store
+**1. Apple AppStore Data Analysis:** https://github.com/ArunMathivanan/Data-Analysis-Portfolio-Projects.git)https://github.com/ArunMathivanan/Data-Analysis-Portfolio-Projects.git

@@ -11,4 +11,3 @@ Communicate findings: Present insights clearly and concisely through visualizati
 
 **Browse the Projects:**
 
-**1. Apple AppStore Data Analysis:** https://github.com/ArunMathivanan/Data-Analysis-Portfolio-Projects.git)https://github.com/ArunMathivanan/Data-Analysis-Portfolio-Projects.git

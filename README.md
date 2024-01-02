@@ -34,6 +34,9 @@ _Microsoft SQL Server, PowerBI_
 ![Image](https://github.com/users/ArunMathivanan/projects/2/assets/151162485/39262a52-7ccd-417a-9aa7-32ad5f6f2847)
 
 
+### **PowerBI Interactive Dashboard** 
+
+https://www.novypro.com/project/apple-appstore-data-analysis-dashboard
 
 ## **Key insights from the Data Analysis**
 

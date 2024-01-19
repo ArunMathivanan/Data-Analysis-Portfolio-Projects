@@ -88,7 +88,7 @@ _•	Mastering data manipulation and analysis using the Pandas library for tasks
 
 _•	Navigating API documentation, obtaining and utilizing API keys, and interacting with APIs like the YouTube Data API V3 to retrieve data._
 
-_•	Designing effective visualizations (charts, graphs, tables) and interactive dashboards to present data insights in Power BI._
+_•	Designing effective visualizations (charts, graphs, tables) and interactive dashboards to present data insights in PowerBI._
 
 _•	Writing and reading data from CSV files for efficient data exchange between tools._
 

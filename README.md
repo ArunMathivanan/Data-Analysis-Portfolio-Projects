@@ -12,3 +12,5 @@ Communicate findings: Present insights clearly and concisely through visualizati
 **Browse the Projects:**
 
 1. Apple AppStore Data Analysis Project :  https://github.com/ArunMathivanan/Data-Analysis-Portfolio-Projects/tree/Apple-AppStore-Project
+
+2. YouTube API Data Exploration Project : https://github.com/ArunMathivanan/Data-Analysis-Portfolio-Projects/tree/YouTube-API-Project

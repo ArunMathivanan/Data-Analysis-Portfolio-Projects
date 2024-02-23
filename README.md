@@ -14,10 +14,10 @@ Create a dashboard in Power BI for Claire that reflects all relevant Key Perform
 
 Possible KPIs include :
 
-Overall customer satisfaction
-Overall calls answered/abandoned
-Calls by time
-Average speed of answer
-Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
-Topics Analysis
-Agent's performane Ratings
+* Overall customer satisfaction
+* Overall calls answered/abandoned
+* Calls by time
+* Average speed of answer
+* Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
+* Topics Analysis
+* Agent's performane Ratings

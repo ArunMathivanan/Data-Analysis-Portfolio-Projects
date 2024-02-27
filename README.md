@@ -1,4 +1,4 @@
-**Welcome to my Data Analysis Portfolio!**
+# Welcome to my Data Analysis Portfolio!
 
 This repository showcases my skills and experience in data analysis through various projects. Each project highlights my ability to:
 
@@ -13,8 +13,10 @@ This repository showcases my skills and experience in data analysis through vari
 * Present insights clearly and concisely through visualizations, reports, and storytelling.
 
 
-**Browse the Projects:**
+## Browse the Projects:
 
-1. Apple AppStore Data Analysis Project :  https://github.com/ArunMathivanan/Data-Analysis-Portfolio-Projects/tree/Apple-AppStore-Project
+1. [Apple AppStore Data Analysis Project](https://github.com/ArunMathivanan/Data-Analysis-Portfolio-Projects/tree/Apple-AppStore-Project)
 
-2. YouTube API Data Exploration Project : https://github.com/ArunMathivanan/Data-Analysis-Portfolio-Projects/tree/YouTube-API-Project
+2. [YouTube API Data Exploration Project](https://github.com/ArunMathivanan/Data-Analysis-Portfolio-Projects/tree/YouTube-API-Project)
+
+3. [PwC Switzerland Power BI in Data Analytics Virtual Job Experience](https://github.com/ArunMathivanan/Data-Analysis-Projects/tree/PwC-Switzerland-PowerBI-Virtual-Job-Experience)

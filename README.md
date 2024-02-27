@@ -8,9 +8,9 @@ At PwC, we are working with other organisations across the world, building on ou
 
 We are enabling employees who are motivated to further accelerate their skills to do so by offering them a “career pivot” to become what we call “Digital Accelerators”. Accelerators rapidly deepen their skills in digital specialties, such as data, automation, AI, and digital storytelling by learning a variety of self-service tools and coding languages and applying these skills across our business. 
 
-## Task 1: Call Centre Trend Analysis
+## Task 1: Call Centre Trend Analysis☎📲
 
-Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. Get creative! 
+Create a dashboard in Power BI for Claire that reflects all relevant Key Performance Indicators (KPIs) and metrics in the dataset. 
 
 Possible KPIs include :
 
@@ -24,7 +24,7 @@ Possible KPIs include :
 
 ![image](https://github.com/ArunMathivanan/Data-Analysis-Projects/assets/151162485/73cc4cf1-f366-4214-83a9-fd9b00d78a98)
 
-### Key Insights :
+### Key Insights📊 :
 
 * Agent Jim has the highest performance ratings(536) and Agent Joe was most practive isn answering calls with AVG call answering Speed of 70.99 secs
 * Most answered and resoelved topics are Streaming and Technical support related customer queries.
@@ -32,9 +32,9 @@ Possible KPIs include :
 * More than 4054 calls answered out of 5000 calls and around 3646 calls got resolved which indicate around 73% customer issues got resolved, need major improvement
 * Overall custoemr satisfaction is around 3.45, need to acahieve around 4.5 to provide a best in class custoemr services.
   
-  
+### Interactive Dashboard : https://www.novypro.com/project/pwc-switzerland---call-centre-trend-analysis  
 
-## Task 2: Customer Retention
+## Task 2: Customer Retention👨‍💻🤝
 
 A few weeks after presenting your dashboard to the management, the Retention Manager from the telecom reaches out to you directly. He was impressed by your work and asked if you can put together a dashboard about customer retention.
 
@@ -54,13 +54,15 @@ The engagement partner provide the following tasks :
 
 ![image](https://github.com/ArunMathivanan/Data-Analysis-Projects/assets/151162485/e62171a8-92ed-43ba-ab2e-6814c4a0f502)
 
-### Key Perfromance Indicators (KPIs) :
+### Key Perfromance Indicators (KPIs) 🚦:
 
 * Enhance technical support for fiber optics customers and reduce the number of technical tickets allocated per customer by 0.5.
 * Boost sales of 1 and 2-year contracts by 5%.
 * Implement a yearly increase of 5% in automatic payments.
 
-## Task 3: Diversity & Inclusion
+### Interactive Dashboard : https://www.novypro.com/project/pwc-switzerland---customer-retention-analysis
+
+## Task 3: Diversity & Inclusion👨👨🏾👩👴🏾👨🏻‍🦰👳🏽‍♀️
 
 Human Resources at our telecom client is highly into diversity and inclusion. They’ve been working hard to improve gender balance at the executive management level, but they’re not seeing any progress. They’re reaching out to us for help.
 
@@ -81,9 +83,9 @@ Calculating the following measures could help to define proper KPIs:
 
 ![image](https://github.com/ArunMathivanan/Data-Analysis-Projects/assets/151162485/dd668f90-b13a-4b64-a670-1f73df1f3c31)
 
-### Key Insights :
+### Key Insights📊 :
 
-#### Hiring :
+#### Hiring🤝 :
 
 **Gender Disparity:** There is a significant imbalance in the hiring proportion, with only 41% of hires being female and 59% male. While the HR department shows a positive exception, it suggests potential bias in other departments.
 
@@ -93,7 +95,7 @@ Calculating the following measures could help to define proper KPIs:
 
 **Age Distribution:** The majority of hires are in the 20-29 age group. Consider broadening the age range to capture diverse experiences and perspectives.
 
-#### Prmotion :
+#### Promotion📈 :
 
 **Positive Trend:** While still not equal, the number of female promotions increased from 2020 to 2021. This is encouraging, but further progress is needed.
 
@@ -103,7 +105,7 @@ Calculating the following measures could help to define proper KPIs:
 
 **Performance Gap:** The average performance rating is almost identical for both genders. This suggests focusing on objective criteria for promotions rather than relying solely on performance ratings.
 
-#### Employee Turnover :
+#### Employee Turnover📉 :
 
 **Part-Time vs Full-Time:** Higher turnover in part-time roles is likely due to various factors like lower job security, benefits, and career progression opportunities.
 
@@ -112,3 +114,6 @@ Calculating the following measures could help to define proper KPIs:
 
 
 **Strategic Department:** While lower female turnover in the Strategic department is positive, consider actively encouraging and promoting talented women within this department to leadership roles.
+
+
+### Interactive Dashboard : https://www.novypro.com/project/pwc---diversity--inclusion-analysis
